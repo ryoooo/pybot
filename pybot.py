@@ -1,4 +1,3 @@
-#test pull_request
 def len_command(command):
 	cmd, text = command.split(' ')
 	length = len(text)
